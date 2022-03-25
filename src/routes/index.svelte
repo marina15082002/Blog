@@ -23,8 +23,6 @@
 </svelte:head>
 
 <div class="flex flex-col flex-grow">
-  
-
   <!-- recent posts -->
   <h2 class="flex items-baseline gap-4 !mb-2">
     Recent Posts
